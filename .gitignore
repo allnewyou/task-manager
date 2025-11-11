@@ -1,0 +1,31 @@
+# Виртуальное окружение Python
+venv/
+env/
+.venv/
+
+# Файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Базы данных
+*.db
+*.sqlite3
+
+# Логи
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+.dockerignore
